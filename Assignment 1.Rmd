@@ -47,7 +47,7 @@ This model is a better extension of the ARMA model which is basically a simple m
 
 There are 2 basic assumptions that are made when we want to forecast using time series models.
 
-1.  Stationary Data
+#### Stationary Data
 
 This is a type of data in which the mean, variance and the covariance is said to be constant. This is an ideal scenario. In the real world we hardly find data that is such because of the noise and also because in real world things are never found to be constant in any sense.
 
@@ -67,7 +67,7 @@ We do hypothesis testing to check if the data is stationary or not.
 
 2.  Augmented Dickey-Fuller (ADF) Test
 
-3.  Auto Correlation
+#### Auto Correlation
 
 Auto in this context means self, this shows the similarity between the lagged and the given time series. This helps us understand the relationship between the current and the past values of the variable. This helps us understand the influence of the variable on itself.
 
